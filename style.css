@@ -77,7 +77,7 @@ h2 {
 .detail {
     display: none;
     opacity: 0;
-    transition: opacity 2s ease;
+    transition: opacity 0.5s ease;
 }
 
 .detail.active {
