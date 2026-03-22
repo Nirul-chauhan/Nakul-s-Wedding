@@ -24,4 +24,4 @@ function changeAll() {
 }
 
 // RUN EVERY 2 SECONDS
-setInterval(changeAll, 4000);
+setInterval(changeAll, 2000);
