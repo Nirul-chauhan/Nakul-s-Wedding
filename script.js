@@ -23,5 +23,5 @@ function changeAll() {
     detailIndex = (detailIndex + 1) % details.length;
 }
 
-// RUN EVERY 3 SECONDS
-setInterval(changeAll, 3000);
+// RUN EVERY 2 SECONDS
+setInterval(changeAll, 2000);
